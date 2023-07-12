@@ -2,7 +2,6 @@ package com.gustavosant.dslist.controllers;
 
 import com.gustavosant.dslist.dto.GameDTO;
 import com.gustavosant.dslist.dto.GameMinDTO;
-import com.gustavosant.dslist.entities.Game;
 import com.gustavosant.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
